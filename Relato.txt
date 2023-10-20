@@ -11,3 +11,4 @@ Especificaciones del sistema:
 *Proporcionar una experiencia de usuario intuitiva y amigable.
 
  
+Escrito por: Farit Albavi.
