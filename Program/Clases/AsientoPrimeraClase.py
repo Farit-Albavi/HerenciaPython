@@ -1,16 +1,14 @@
-from Clases.Asiento import Asiento 
+from Asiento import Asiento 
 
-#Clase que representa un asiento extra comodo de primera clase de un vuelo
 class AsientoPrimeraClase(Asiento):
 
     def __init__(self):
-        super().__init__()  # Llama al constructor de la clase base
-        self.inicial: int = (5) # Establece la capacidad maxima de asientos disponibles
+        super().__init__()
+        self.inicial: int = (6) # Establece la capacidad maxima de asientos disponibles
         self.disponibles: int = (self.inicial) # Establece el número disponible de asientos de primera clase
         # Atributos propios
         self.__reclinacion: bool = True
         self.__wifi: bool = True
-        self.__entretenimiento: bool = True
 
     # Metodos propios de la clase ->
     def atencion_personalizada(self):

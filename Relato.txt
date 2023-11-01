@@ -1,6 +1,6 @@
 Python Airlines - Sistema de Reserva de Asientos
 
-El programa Python Airlines es un sistema de reserva de asientos para una aerolínea ficticia. El sistema deberá permitir a los usuarios reservar asientos en dos categorías: "Primera clase" cuyas características son su extrema comodidad con asientos reclinables, wifi y servicio de entretenimiento y "Económico" solo permite elegir la posicion del asiento del lado de la ventana o del pasillo y si se quiere agregar equipaje extra el costo es de $50. Cada categoría tiene un precio fijo por asiento ($1000 para primera clase y clase economica $200) y una cantidad limitada de asientos (primera clase 5 asientos y clase economica 10), se debera proporcionar un sistema intuitivo para el usuario que muestre la cantidad de asientos disponibles y al final del programa calcular y mostrar cuantos asientos ha reservado el usuario.
+El programa Python Airlines es un sistema de reserva de asientos para una aerolínea ficticia, basada en una interfaz de texto atraves de la terminal. El sistema deberá permitir a los usuarios reservar asientos en dos categorías: "Primera clase" y "Económico", estas clases se diferencian principalmente en su coste y en la calidad del servicio. Cada categoría tiene un precio fijo por asiento ($1000 para primera clase y clase economica $200) y una cantidad limitada de asientos (primera clase 6 asientos y clase economica 18), se debera proporcionar un sistema intuitivo para el usuario que muestre la cantidad de asientos disponibles y al final del programa calcular y mostrar cuantos asientos ha reservado el usuario.
 
 Especificaciones del sistema:
 
@@ -10,5 +10,3 @@ Especificaciones del sistema:
 *Mantener un seguimiento de la disponibilidad de asientos en las categorías de "Primera Clase" y "Económico".
 *Proporcionar una experiencia de usuario intuitiva y amigable.
 
- 
-Escrito por: Farit Albavi.
