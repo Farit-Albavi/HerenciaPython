@@ -14,3 +14,5 @@ Instrucciones para probar el sistema de reservas de Python Airlines:
 3. Prueba adicional:
    - Puedes realizar varias pruebas para comprobar la funcionalidad del sistema de reservas con diferentes opciones y cantidades de asientos.
 
+Observacion: La aplicación se encuentra en la carpeta clases que contiene todos los modulos de la aplicación para mayor orden.
+
